@@ -42,7 +42,7 @@ Readthedocs
 
 El primer que haurem de fer és anar al nostre perfil
 
-.. image:: ./img/perfil.PNG
+.. image:: ./img/perfil.png
     :align: center
 
 Un cop en el nostre perfil, li donem click al botó de "Importar un proyecto"
@@ -52,5 +52,5 @@ Un cop en el nostre perfil, li donem click al botó de "Importar un proyecto"
 
 I llavors seleccionem el repositori el qual està la nostra documentació que volem penjar, en el nostre cas és el repositori següent: publicar_readthedocs
 
-.. image:: ./img/selec_repo.PNG
+.. image:: ./img/selec_repo.png
     :align: center
