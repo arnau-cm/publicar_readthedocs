@@ -8,7 +8,7 @@ Publicar Documents a Readthedocs - Arnau Calleja
 Introducció
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-En aquesta documentació us ensenyarem com publicar la teva documentació a 'Readthedocs <https://readthedocs.org/>;'_
+En aquesta documentació us ensenyarem com publicar la teva documentació a 'Readthedocs <https://readthedocs.org/>_
 
 Què és Readthedocs?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
